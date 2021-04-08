@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to mTree!
 
-You can use the [editor on GitHub](https://github.com/gmucsn/mTree_learning_site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This site will help to introduce the reader to the mTree economics framework. mTree allows researchers to both simulate microeconomic systems and conduct human subject experiments from the same codebase.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Prerequisites
 
-### Markdown
+A first step to using mTree is to either install the mTree Docker container or the mTree Python package.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Tutorial Videos
 
-```markdown
-Syntax highlighted code block
+In order to understand how mTree works and how to develop microeconomic systems, we have created a number of videos.
 
-# Header 1
-## Header 2
-### Header 3
+1. [Installing mTree with Docker and using the developer tools](https://www.youtube.com/watch?v=ec2RR1E5Aro)
+2. [Discussion of microeconomic system construction](https://www.youtube.com/watch?v=Krmr3FQv-Ls)
+3. [Running auction examples in mTree](https://www.youtube.com/watch?v=VZajGnsv_3I)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gmucsn/mTree_learning_site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Constructing a clock auction
